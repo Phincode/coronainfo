@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886098045519",
+    "firebase_url": "https://coronainfo-9756b.firebaseio.com",
+    "project_id": "coronainfo-9756b",
+    "storage_bucket": "coronainfo-9756b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886098045519:android:357ea9c545c1af9e3a583a",
+        "android_client_info": {
+          "package_name": "phineas.coronainfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886098045519-idfmkij107f34j7tmllchq2b5mk4ish4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB73LWKFmNm_FXsY5zk5WCJb1hg49pmDEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886098045519-idfmkij107f34j7tmllchq2b5mk4ish4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
